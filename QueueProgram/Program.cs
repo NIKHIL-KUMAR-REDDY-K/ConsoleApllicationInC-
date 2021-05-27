@@ -14,6 +14,7 @@ namespace QueueProgram
             queue.Enqueue("string3");
             queue.Enqueue("string4");
             queue.Enqueue("string5");
+            queue.Enqueue("string6");
 
             Console.WriteLine("please enter the string where we want to insert ");
             string pos = Console.ReadLine();
