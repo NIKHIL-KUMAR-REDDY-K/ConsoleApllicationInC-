@@ -8,7 +8,7 @@ namespace QueueProgram
     {
         private void colourCar()
         {
-            Console.WriteLine("this is red in colur");
+            Console.WriteLine("this is car red  colur");
         }
     }
 }
