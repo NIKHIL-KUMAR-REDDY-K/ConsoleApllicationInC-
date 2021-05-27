@@ -6,7 +6,7 @@ namespace QueueProgram
 {
     class Car
     {
-        string s = "we are in f300";
+        string s = "we are in f200";
         private void wheels()
         {
             Console.WriteLine("it has four wheels");
