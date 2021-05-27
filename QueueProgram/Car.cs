@@ -6,5 +6,9 @@ namespace QueueProgram
 {
     class Car
     {
+        private void colour()
+        {
+            Console.WriteLine("this is red colur");
+        }
     }
 }
