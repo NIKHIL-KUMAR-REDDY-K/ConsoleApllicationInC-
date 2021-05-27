@@ -10,7 +10,7 @@ namespace QueueProgram
         static void Main(string[] args)
         {
             queue.Enqueue("string123");
-            queue.Enqueue("string2");
+            queue.Enqueue("string234");
             queue.Enqueue("string3");
             queue.Enqueue("string4");
           
